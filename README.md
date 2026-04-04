@@ -1,6 +1,6 @@
 🚀 DevOps CI/CD Pipeline Project
 📌 Project Overview
-This project demonstrates a complete DevOps pipeline including:
+CI/CD implemented using Jenkins to build and push Docker images.
 
 Dockerizing an application
 
